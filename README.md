@@ -46,3 +46,7 @@ This document outlines the internal API for the Answer Lens application. Designe
   "credits": 5
 }
 ```
+
+### Testing
+
+You can download and test out the Answer Lens app (here)[https://apps.apple.com/us/app/answer-lens/id6475650817]. Please note that the current app is running on V2 of the API so it's not the same.
